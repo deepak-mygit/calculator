@@ -1,0 +1,16 @@
+button{
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+  border: 1px solid #2e4053;
+  margin: 10px;
+  background:#1c2833;
+  color: white;
+  font-size: 22px;
+}
+button:hover{
+  border: 1px solid #6804ec;
+}
+.btn{
+  margin-left: 10px;
+}
